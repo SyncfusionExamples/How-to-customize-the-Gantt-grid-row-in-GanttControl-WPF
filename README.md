@@ -2,7 +2,7 @@
 
 This article explains how to customize the Gantt grid row in Syncfusion WPF Gantt control, as shown in the following image.
 
-![Output image of BingMap](Output/GanttGridCustomize.JPG)
+![Output image of GanttGridCustomized](Output/GanttGridCustomize.JPG)
 
 ## To customize the row height of the GanttGrid
 
