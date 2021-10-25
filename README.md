@@ -72,6 +72,8 @@ This can be achieved by setting the font style in the QueryCellInfo event argume
 
 ```
 
+KB article - [How-to-customize-the-Gantt-grid-row-in-GanttControl-WPF](https://www.syncfusion.com/kb/12077/how-to-customize-the-gantt-grid-row-in-the-wpf-ganttcontrol)
+
 # See also
 
 [How to add custom tooltip to Gantt](https://help.syncfusion.com/wpf/gantt/customtooltip)
